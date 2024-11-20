@@ -6,7 +6,7 @@
 ---
 
 
-**![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
+### **![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
 
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
@@ -21,7 +21,7 @@ Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
 
 
-**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
+### **![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
 
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data.
 
