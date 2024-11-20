@@ -5,8 +5,7 @@
 ---
 
 
-
-### **Day2 Assignments**
+**![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
 
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
@@ -16,6 +15,5 @@ Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
   1. [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyWcoe2_ZoPspEiaMbl8UoF0KWVLDScA_atCKunKk3RDAQ-KnM5pIYwKrxzajQ2IdxwUSki3yCIPJunInP9wlNUBW_onPNYAh51-wRlPn4wlOWP1AAuwZFof7ekMcy0ozJVhs8lniVzsWmrAnuJhEv5h_Uag57QOo6PQK82bEtHqrnN9uSpVtYrq7GYffjPylPkWr1pqwdpj7wN7B3kG3cX7AeniInWQUoZreEmPmf3g5CW7hHqiPuAX6U_0IbeoK98m&r=eJwFwVEOgCAIANATIVuf3YYJA2dKKY11-96ziHufiJlZOqleUqoPrM6Cg1Zv22QJMn1wAHt9h8yABwiyhcEi_QEwQxgv&s=ALHZ2r5474WCni7wde29sTKIEDvN) a RAG question-answering system over custom documents
   2. [Explore](https://notifications.googleapis.com/email/redirect?t=AFG8qyXzlVYPb0yImRMMLse_wMRWaGCQ8uS3HFzC3nsfehBs1klb34VF6WBx4KelCvPWkEC7uKz3w8FMHslMOfm5oTuPoPMwqihUyMFLgnZXz9yJBV2BR9jJ83WPEeEUPFPR6S4Ox6lEDXDjI9xsxub3f1zq7N_ySUstNV7U4CB8lT-OgmhqEmp2OiNYDvLJ51vrEE6cQ2z5daNmHxgw76mTeO10EknzQpjwmOit4tBlhgd2DrRi8UdbgX8LpiDcLi_qatXU&r=eJwFwVEKwCAIANATmbDP3callJQVGkS333t17xUv4jknNSqlS8rTME8WNPKmUcUFmS48IPYJs44SQIMh1LST674QebrED1m8HPY&s=ALHZ2r5-bKWbGH4ilb-HxtaLyTR3) text similarity with embeddings
   3. [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyXFPHGVXtYmsLkx_E3UQ6FG5ZM5lGQnnT1o5B5WmumSi0fEhSDb_apKoSGxoIqSvMwki-c3HziJcKsS8LQaH45lqMzaCeRyjHfWuBAZy9RPw35G0A8M_ZSSjccPrx-aEWM_oT6DjFivvLoYLP89BNPLWkn0oDsr4DB4jJbG10K908hIco3A9uhVXAkQPCOu1cOVhgSnB509zB61hgQ5XzOslp_g4DVK00CJx2WenG9wINKZIBu5wHTvZiF3PhDM8dKp&r=eJwNxlEOgCAIANATIVuf3YaAlKnZxI15-3pfr6z1-okYEalSzk0Tj448RLHTrOZFp6LQhgO4kbvd254M2i8V-ecQtgpUneQfe6MdWw&s=ALHZ2r7npohONwEeIO8UQGjgyF-E) a neural classification network with Keras using embeddings
-
 
 ---

@@ -7,7 +7,8 @@
 
 ---
 
-### **Day1 Assignments**
+
+**![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
 
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 
