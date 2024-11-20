@@ -1,4 +1,4 @@
-### Resources
+### 📚**Resources**
 
 * [Day 3 Livestream with Paige Bailey – 5-Day Gen AI Intensive Course | Kaggle - YouTube](https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=3&pp=iAQB)
 * [(217) Discord | #5dgai-q-and-a | Kaggle](https://discord.com/channels/1101210829807956100/1303438695143178251)
