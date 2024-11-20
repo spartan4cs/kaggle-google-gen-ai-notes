@@ -11,11 +11,11 @@
 
 Complete Unit 3: “Generative AI Agents”, which is:
 
-* [Optional] Listen to the summary [podcast episode](https://notifications.googleapis.com/email/redirect?t=AFG8qyXQMbxABmh0aQboJMRTyPetBfQuSYihHFmFwBVZ13AudN4MBwy7s8l_TXq54bP-v-eROIBvnRbeT6FB1BbyC67g4EEDCyEWC0K3UXmd_82RR85naR8eQ2QmUOkikh3k7Dxw9mNBaGZLxrkx10I35zb7K0cGUKS3svLgiEGkMGUUCkpt8jkToXNXCymPz20_UGhw7OQo4iEovBNIGYUlyB1MIxLKbFeksooswYvBEa1BpROVhELfT-hirZKnNt9T8FxY&r=eJzLKCkpKLbS16_MLy0p1UtK1fcwSY9KMXFyLnIJBACSrQmX&s=ALHZ2r4Kqb4hhevK5Nqejitqs99t) for this unit (created by [NotebookLM](https://notifications.googleapis.com/email/redirect?t=AFG8qyUCUOonL7McWHt5zncoPV0RksKmSuPpHyX3S2u3c9sqAHXQ5V6yy9CPQc7EU9QK0MzjssVKO65jUhdQwufef4FhDzn0oWnGpM20k_I7vDTx59cH7xaQW36GDD0PRBNe2r6JIOKAyzsi4f6j7Dsc8z4y34i4M3FrP-QE16tVEBQxDNz-ZubYe-Hx93lh18flli3LST5RmvDusV39aTIdDZDfNqj0uEPIk3sq5OPDu7i55lx543GopLLzwsSok4aaXxe5&r=eJzLKCkpKLbS18_LL0lNys_PzsnVS8_PT89J1QcAhrkJ4A&s=ALHZ2r4EiIXrUc6DBfdVtB2DFiEQ)).
-* Read the [“Generative AI Agents” whitepaper](https://notifications.googleapis.com/email/redirect?t=AFG8qyU2M9n7by4eM2Rr5i1hjAyLp9OVcpNUfzsjcnjtU6h4_15rL0z1mhyjj0xuI6Y07GnsccC9EXVvwgnTzVj_D0keHj2Dr_swnMo6HzR_eood6T_SLM1SAN4CMQsrgM1SSU0NjqdPIH0KtNVDUIi7jDiiE9mjdB6uRqU3hqv270tL6E2LKCKZOV4NrqeF7Ca4cJ__jLT982Z2Ipe5kwbu_YHxgjAup5HaUCHgv2n6n6p0NVgMzy6snb6RSqUs6Mw5fqkY&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1S_PyCxJLUgsSC3STUxPzSspBgA02g9O&s=ALHZ2r5BtgatxE8QnhxFnarD7i9I).
+* [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=H4gZd4BCrDQ) for this unit (created by [NotebookLM](https://notebooklm.google/)).
+* Read the [“Generative AI Agents” whitepaper](https://www.kaggle.com/whitepaper-agents).
 * Complete these code labs on Kaggle:
-  1. [Talk](https://notifications.googleapis.com/email/redirect?t=AFG8qyWTRB3ihJHTZHpXuayOOwB7dHnTKubP4dOatjTxBbytR9u7q4aKuQo6P2fNHJSqPaIhe3tBgSHldObmRgnNOo27dSLIMhiAwZ90Srf2hlHWXw7y2DrLee1yt_SE2NCy86_Xtsl03GOKQLiGYTryzpguzkdDVkk8uZYvjqw1dKRvGtzK8MdwSubMkS54FbEjD7BKw06ZyTn1ZeXzEo2x7P1sUy2RXtyi2U1u8n7Sv0kJYNxMcZJxr0s7gc3np9UYyg6b&r=eJwFwcENwCAIAMCJkEd_3YYgFaKiURrT7XunEXPfiOecVKmUJolHRx5ZsNOqtlWWYKYPLnhe57DhwNSaeYFjoRAqUKSbG9C0H9FDHiY&s=ALHZ2r5-COlY4bAIUkKSuau-rr-y) to a database with function calling
-  2. [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyWu26e1nBZhhyC57S2GD9FFjNe0Jtf_PBI2IL0l3A5YK8ZolDX3VYkgHbVEpH3kQa5pQTZBQ6V_pPm1e70C_ojPKPYaoUMXFdA7qwOGQ2haSmIaAO__UMo_53OL7C5V3_u8KfMAyG0aqibrSZOiXEQmRwytUniy-GT5ggNFb2VOGKPLi0GBT52Xb8qhaUDHQ4MtNEC3cfHJzWJxKJzhexfeUBi8JD_NEi5RED1k2V7s_aEPomWKzE75zQalgaSzQ_4H&r=eJwFwcENwCAIAMCJkEd_3YYqAaOiURrS7Xun7uvciBGRGol0TnkOzLMwDtqtHuXNWOiDC5639lJNgAxI2ByiukInE9m0FH9ybxzU&s=ALHZ2r6QibhUOjRNjX5KesMFfYbI) an agentic ordering system in LangGraph
+  1. [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling
+  2. [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph
 
 
 ---
