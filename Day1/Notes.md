@@ -43,3 +43,135 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 
 ---
+
+# YT Notes Takeaways
+
+## Kaggle Generative AI Intensive Course - Day 1 Notes
+
+## Overview
+
+- **Course Duration**: 5 days (November 11–15)
+- **Sponsor**: Kaggle and the Gemini Team (Google)
+- **Focus**: Generative AI fundamentals
+  - Foundational models
+  - Prompt engineering
+  - Embeddings and vector databases
+  - AI agents and domain-specific models
+  - MLOps for model maintenance
+
+## Key Features of the Course
+
+1. **Daily Assignments**: White papers, podcasts, and code labs.
+2. **Live Q&A Sessions**: Expert guest speakers from Google and DeepMind.
+3. **Interactive Learning**:
+   - Access to Google Gemini APIs.
+   - Code labs for practical experience.
+4. **Resources**:
+   - A dedicated Discord channel for discussions and queries.
+
+---
+
+## Topics Covered on Day 1
+
+### 1. Foundational Models
+
+- **Definition**: Large language models trained on massive data sets.
+- **Applications**: From text generation to multimodal outputs (e.g., images, videos).
+- **Technological Advancements**:
+  - Gemini models now support OpenAI API compatibility.
+  - Smaller models like Gemini Flash AP offer cost-efficient, high-speed inference.
+
+### 2. Prompt Engineering
+
+- **Importance**: Enhances the effectiveness of model responses.
+- **Techniques**:
+  - Zero-shot prompting.
+  - Few-shot prompting.
+  - Chain of Thought (CoT) prompting for reasoning-based tasks.
+  - JSON and Enum modes for structured outputs.
+
+### 3. Reinforcement Learning with Human Feedback (RLHF)
+
+- **Purpose**: Align models with human preferences and safety guidelines.
+- **Mechanism**:
+  - Collect feedback via user interactions (e.g., thumbs up/down).
+  - Reward and penalize responses based on human preference data.
+
+### 4. Accelerating Inference
+
+- **Techniques**:
+  - Quantization: Reducing precision to improve efficiency.
+  - Distillation: Transferring knowledge from large models to smaller ones.
+  - Flash Attention: Optimizing computations for faster results.
+
+### 5. Evaluation of Models
+
+- **Methods**:
+  - Classical metrics like BLEU and ROUGE.
+  - Auto-evaluation using LLMs as raters.
+  - Fine-tuning task-specific performance.
+
+---
+
+## Code Labs Highlights
+
+1. **Setup**:
+
+   - Install the Generative AI SDK.
+   - Authenticate using Kaggle secrets for API keys.
+2. **Prompts**:
+
+   - Single-turn interactions.
+   - Multi-turn conversational interfaces.
+3. **Generation Parameters**:
+
+   - **Temperature**: Controls randomness.
+   - **Top-K and Top-P**: Limit token sampling scope.
+   - **Output length**: Caps the maximum tokens in the response.
+4. **Prompt Engineering**:
+
+   - **Enum Mode**: Restrict responses to predefined categories.
+   - **Chain of Thought**: Encourage step-by-step reasoning.
+   - **JSON Mode**: Generate structured data for programmatic use.
+5. **Advanced Features**:
+
+   - Code generation and execution.
+   - Multi-step workflows using the ReAct framework.
+
+---
+
+## Pop Quiz Questions and Answers
+
+### 1. Which setting controls randomness in token selection?
+
+- **Answer**: Temperature.
+
+### 2. Which technique does NOT accelerate inference?
+
+- **Answer**: Fine-tuning.
+
+### 3. Unique characteristic of Gemini models?
+
+- **Answer**: 2 million token context window.
+
+### 4. How does RLHF improve models?
+
+- **Answer**: Uses a reward model to incentivize human-preferred responses.
+
+### 5. Which technique enhances reasoning via intermediate steps?
+
+- **Answer**: Chain of Thought (CoT) prompting.
+
+### 6. Minimum GPU memory needed for a 3B parameter model (standard float precision)?
+
+- **Answer**: 12 GB.
+
+---
+
+## Key Takeaways
+
+- Gemini models and prompt engineering offer powerful tools for building generative AI applications.
+- RLHF and distillation methods play key roles in improving model performance.
+- Evaluation techniques ensure relevance and accuracy for specific tasks.
+
+---
