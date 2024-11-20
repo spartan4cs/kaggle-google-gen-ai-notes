@@ -9,8 +9,6 @@
 
 ---
 
-
-
 ### **Setup Instructions**
 
 * Sign up for a [Kaggle account](https://notifications.googleapis.com/email/redirect?t=AFG8qyUgOy4PEZdjz8xQEpDv5W1HfN9I953Pnm1U93hjjkG6aATHS-IgWuBr4pGy7nq3RqjQys9bWzbuw2-mvNrGP84Fxdg66zLFcxdgVZqRy9NdslJaqK2PIvfMnS5sOjueISH3kt7TLfvtwp7O0tjRdA1yGqyp-ruaqKUq3jic51MdQnes8X5xzJeZ0iydkhndWmcCI3H24sx1FEeBdBd5TiWuHysxP-K04p0T43qyBQfKnzGyQojIvpexd59gOEbQsC3t&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1QcAZ1kIZg&s=ALHZ2r6nD87O1ESSzJ9vOEUik5fA) and [learn how Notebooks work](https://notifications.googleapis.com/email/redirect?t=AFG8qyXK9FwaoFn-rIOtEZgHxHHa55HxVBaYyKPyMs4VuvWK3LAT9dirzk5_rBEochDXb_ENAHGT98mNgNbp0MM4Ctcw9U_d5SjeNurHJUlLQyMWi-RQuhHnOqgHD1vQ22G_TAHOEe32gdpVXu4JvEfvW8YUiqaATnhRAlWApJcnllUnJAvX3oKY5ghPiOG0XIubYlubjmQ-RzEt8hAR7vwMSzaz2DLdnODcXGclDdUxfyihc810VpKQCo7hmbd3YfAIiCOc&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1U_JTy7Wz8svSU3Kz88uBgAGng4S&s=ALHZ2r5tpjdIxcpldZLTwO3LOGFl). Make sure to [phone verify](https://notifications.googleapis.com/email/redirect?t=AFG8qyXu3bsNDChhT7GKfogCqZVWSEvpjeBAObJ6HUTC6PQ7oKxnJa4sin1XcqV3G8gMoccRQKpJ0l14lOv0s122xVWMkidhz4Z-Ua5tPtgKP_dL7J3iIzOcl25Ud25F91jLv1RPdI1fpXBvQM2GB8mC7u08elWmM9Gv-PdPU0PeCHhm-Rb2sszeeWsSHfSo7ezfaygo5YtpKautg9jNKLZqdMtmB-kJFNsCyIMxQbc_kEggXBPw7AkiulLZbJXTRhCXcNYG&r=eJzLKCkpKLbS1y8vL9fLTkxPz0nVS87P1S9OLSnJzEsvBgC6DwvX&s=ALHZ2r7wwm68KjP6KIKfvRebJr4l) your account, it’s necessary for the course’s code labs.
@@ -54,7 +52,7 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 ---
 
-# YT Notes Takeaways
+# ![](https://cdn-0.emojis.wiki/uploads/2020/11/photo_2020-11-05_16-28-41.jpg) YT Notes Takeaways
 
 ## Kaggle Generative AI Intensive Course - Day 1 Notes
 

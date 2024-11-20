@@ -6,8 +6,7 @@
 
 ---
 
-
-**![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignment**
+### **![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignment**
 
 Complete Unit 4: “Domain-Specific LLMs”, which is:
 
@@ -19,12 +18,16 @@ Complete Unit 4: “Domain-Specific LLMs”, which is:
 
 ---
 
-
-
-**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
+### **![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
 
 In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
 
 In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
 ---
+
+
+
+# ![](https://cdn-0.emojis.wiki/uploads/2020/11/photo_2020-11-05_16-28-41.jpg) YT Notes Takeaways
+
+## Kaggle Generative AI Intensive Course - Day 4 Notes

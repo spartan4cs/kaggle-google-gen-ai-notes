@@ -5,9 +5,7 @@
 
 ---
 
-
-
-**![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
+### **![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
 
 Complete Unit 3: “Generative AI Agents”, which is:
 
@@ -17,15 +15,17 @@ Complete Unit 3: “Generative AI Agents”, which is:
   1. [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling
   2. [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph
 
-
 ---
 
-
-
-**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
+### **![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
 
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
 The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
 
 ---
+
+
+# ![](https://cdn-0.emojis.wiki/uploads/2020/11/photo_2020-11-05_16-28-41.jpg) YT Notes Takeaways
+
+## Kaggle Generative AI Intensive Course - Day 3 Notes
