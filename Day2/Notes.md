@@ -17,3 +17,11 @@ Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
   3. [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyXFPHGVXtYmsLkx_E3UQ6FG5ZM5lGQnnT1o5B5WmumSi0fEhSDb_apKoSGxoIqSvMwki-c3HziJcKsS8LQaH45lqMzaCeRyjHfWuBAZy9RPw35G0A8M_ZSSjccPrx-aEWM_oT6DjFivvLoYLP89BNPLWkn0oDsr4DB4jJbG10K908hIco3A9uhVXAkQPCOu1cOVhgSnB509zB61hgQ5XzOslp_g4DVK00CJx2WenG9wINKZIBu5wHTvZiF3PhDM8dKp&r=eJwNxlEOgCAIANATIVuf3YaAlKnZxI15-3pfr6z1-okYEalSzk0Tj448RLHTrOZFp6LQhgO4kbvd254M2i8V-ecQtgpUneQfe6MdWw&s=ALHZ2r7npohONwEeIO8UQGjgyF-E) a neural classification network with Keras using embeddings
 
 ---
+
+
+
+**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
+
+Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data.
+
+---

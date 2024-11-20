@@ -23,3 +23,14 @@
 
 
 ---
+
+
+
+**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png)What You’ll Learn**
+
+Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
+
+The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts
+
+
+---

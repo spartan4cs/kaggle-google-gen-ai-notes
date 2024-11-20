@@ -15,3 +15,16 @@ Complete Unit 3: “Generative AI Agents”, which is:
 * Complete these code labs on Kaggle:
   1. [Talk](https://notifications.googleapis.com/email/redirect?t=AFG8qyWTRB3ihJHTZHpXuayOOwB7dHnTKubP4dOatjTxBbytR9u7q4aKuQo6P2fNHJSqPaIhe3tBgSHldObmRgnNOo27dSLIMhiAwZ90Srf2hlHWXw7y2DrLee1yt_SE2NCy86_Xtsl03GOKQLiGYTryzpguzkdDVkk8uZYvjqw1dKRvGtzK8MdwSubMkS54FbEjD7BKw06ZyTn1ZeXzEo2x7P1sUy2RXtyi2U1u8n7Sv0kJYNxMcZJxr0s7gc3np9UYyg6b&r=eJwFwcENwCAIAMCJkEd_3YYgFaKiURrT7XunEXPfiOecVKmUJolHRx5ZsNOqtlWWYKYPLnhe57DhwNSaeYFjoRAqUKSbG9C0H9FDHiY&s=ALHZ2r5-COlY4bAIUkKSuau-rr-y) to a database with function calling
   2. [Build](https://notifications.googleapis.com/email/redirect?t=AFG8qyWu26e1nBZhhyC57S2GD9FFjNe0Jtf_PBI2IL0l3A5YK8ZolDX3VYkgHbVEpH3kQa5pQTZBQ6V_pPm1e70C_ojPKPYaoUMXFdA7qwOGQ2haSmIaAO__UMo_53OL7C5V3_u8KfMAyG0aqibrSZOiXEQmRwytUniy-GT5ggNFb2VOGKPLi0GBT52Xb8qhaUDHQ4MtNEC3cfHJzWJxKJzhexfeUBi8JD_NEi5RED1k2V7s_aEPomWKzE75zQalgaSzQ_4H&r=eJwFwcENwCAIAMCJkEd_3YYqAaOiURrS7Xun7uvciBGRGol0TnkOzLMwDtqtHuXNWOiDC5639lJNgAxI2ByiukInE9m0FH9ybxzU&s=ALHZ2r6QibhUOjRNjX5KesMFfYbI) an agentic ordering system in LangGraph
+
+
+---
+
+
+
+**![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png) What You’ll Learn**
+
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
+
+The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
+
+---
