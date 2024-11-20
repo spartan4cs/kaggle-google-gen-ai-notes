@@ -5,6 +5,7 @@
 * [Kaggle GenAI, Nov 11, 2024 (Day 1): Tips &amp; Tricks - YouTube](https://www.youtube.com/watch?v=v5bhhJ9FD60&t=24s)
 * [Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs)
 * [Untitled prompt | Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+* [https://www.kaggle.com/code/aakash404/day-1-prompting/](https://www.kaggle.com/code/aakash404/day-1-prompting/)
 
 ---
 
@@ -22,8 +23,6 @@
 
 ---
 
-
-
 ### **![🎒](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f392/32.png) Today’s Assignments**
 
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
@@ -37,10 +36,7 @@
 * Read the [“Prompt Engineering” whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering).
 * Complete [this code lab](https://www.kaggle.com/code/markishere/day-1-prompting) on Kaggle where you’ll learn prompting fundamentals. Make sure you [phone verify](https://www.kaggle.com/settings) your account before starting, it's necessary for the code labs.
 
-
 ---
-
-
 
 ### **![💡](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4a1/32.png)What You’ll Learn**
 
@@ -48,17 +44,13 @@ Today you’ll explore the evolution of LLMs, from transformers to techniques li
 
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts
 
-
 ---
-
-
 
 ![1732077475439](image/Notes/1732077475439.png)
 
 ![1732077533874](image/Notes/1732077533874.png)
 
 ![1732077557836](image/Notes/1732077557836.png)
-
 
 ---
 
