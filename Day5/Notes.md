@@ -29,6 +29,6 @@ Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's
 
 
 
-# ![](https://cdn-0.emojis.wiki/uploads/2020/11/photo_2020-11-05_16-28-41.jpg) YT Notes Takeaways
+# ▶️ YT Notes Takeaways
 
 ## Kaggle Generative AI Intensive Course - Day 5 Notes

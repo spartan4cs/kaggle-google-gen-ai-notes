@@ -26,6 +26,6 @@ The code labs cover how to connect LLMs to existing systems and to the real worl
 ---
 
 
-# ![](https://cdn-0.emojis.wiki/uploads/2020/11/photo_2020-11-05_16-28-41.jpg) YT Notes Takeaways
+# ▶️ YT Notes Takeaways
 
 ## Kaggle Generative AI Intensive Course - Day 3 Notes
