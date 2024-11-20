@@ -4,7 +4,7 @@
 * [(217) Discord | #5dgai-q-and-a | Kaggle](https://discord.com/channels/1101210829807956100/1303438695143178251)
 * [Kaggle GenAI, Nov 11, 2024 (Day 1): Tips &amp; Tricks - YouTube](https://www.youtube.com/watch?v=v5bhhJ9FD60&t=24s)
 * [Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs)
-* [Untitled prompt | Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+* [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 * [https://www.kaggle.com/code/aakash404/day-1-prompting/](https://www.kaggle.com/code/aakash404/day-1-prompting/)
 
 ---
