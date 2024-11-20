@@ -3,6 +3,8 @@
 * [Day 1 Livestream with Paige Bailey – 5-Day Gen AI Intensive Course | Kaggle](https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=2)
 * [(217) Discord | #5dgai-q-and-a | Kaggle](https://discord.com/channels/1101210829807956100/1303438695143178251)
 * [Kaggle GenAI, Nov 11, 2024 (Day 1): Tips &amp; Tricks - YouTube](https://www.youtube.com/watch?v=v5bhhJ9FD60&t=24s)
+* [Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs)
+* [Untitled prompt | Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 
 ---
 
