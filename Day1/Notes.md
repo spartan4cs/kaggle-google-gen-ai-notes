@@ -36,3 +36,5 @@ The code lab will walk you through getting started with the Gemini API and cover
 ![1732077475439](image/Notes/1732077475439.png)
 
 ![1732077533874](image/Notes/1732077533874.png)
+
+![1732077557836](image/Notes/1732077557836.png)
