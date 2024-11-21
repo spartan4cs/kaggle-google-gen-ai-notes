@@ -147,11 +147,12 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
   - Pros: Managed services, ease of use, stability.
   - Cons: Costly, vendor lock-in.
 
-### 3. **Will new LLM capabilities like longer context windows reduce the need for vector databases?**
+### **3. Do you think new features and capabilities like Gemini's longer context windows and Google's recently released search grounding will reduce the need for vector databases?**
 
-- **Answer**: No, they are complementary:
-  - Longer context windows allow for more relevant data in the LLM prompt.
-  - Vector databases efficiently retrieve the most relevant data from large datasets.
+* **Answer**: No, they are complementary?
+* **Longer context windows** allow for more relevant data in the LLM prompt.
+
+* **Vector databases** efficiently retrieve the most relevant data from large datasets.
 
 ### 4. **How can we train embedding models from decoder-only backbones?**
 
