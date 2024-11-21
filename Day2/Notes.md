@@ -185,7 +185,7 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 - **Answer**: C) Combine embeddings with full-text search for better literal information capture.
 
-### Question 5: Primary advantage of locality-sensitive hashing (LSH)?
+### Question 5: Primary advantage of locality-sensitive hashing (LSH) for vector searc?
 
 - **Answer**: B) Reduces the search space by grouping similar items into hash buckets.
 
