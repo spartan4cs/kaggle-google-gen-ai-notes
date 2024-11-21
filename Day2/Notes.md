@@ -113,11 +113,6 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
   2. Compute embeddings for each document.
   3. Generate a similarity matrix and visualize it as a heat map.
   4. Analyze relationships between documents based on semantic similarity.
-  5. 
-
-from kaggle_secrets import UserSecretsClient
-user_secrets = UserSecretsClient()
-secret_value_0 = user_secrets.get_secret("GOOGLE_API_KEY")
 
 ---
 
