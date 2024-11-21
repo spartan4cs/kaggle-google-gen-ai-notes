@@ -27,8 +27,6 @@ Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's
 
 ---
 
-
-
 # ▶️ YT Notes Takeaways
 
 ## Kaggle Generative AI Intensive Course - Day 5 Notes

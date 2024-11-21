@@ -76,7 +76,7 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 ### 3. **RAG (Retrieval-Augmented Generation)**
 
-- **Purpose**: Mitigate the limitations of LLMs by retrieving relevant information dynamically.
+- **Purpose**: Mitigate the limitations of LLMs by retrieving relevant information dynamically. Keepignn thhe model updated with relavant information, so when we query it will give latest information rather than stale information.
 - **Process**:
   1. **Embedding & Indexing**:
      - Convert documents and queries into embeddings.
