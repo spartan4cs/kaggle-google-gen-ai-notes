@@ -76,7 +76,7 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 ### 3. **RAG (Retrieval-Augmented Generation)**
 
-- **Purpose**: Mitigate the limitations of LLMs by retrieving relevant information dynamically. Keepignn thhe model updated with relavant information, so when we query it will give latest information rather than stale information.
+- **Purpose**: Mitigate the limitations of LLMs by retrieving relevant information dynamically. Keeping thhe model updated with relavant information, so when we query it will give latest information rather than stale information.
 - **Process**:
   1. **Embedding & Indexing**:
      - Convert documents and queries into embeddings.
@@ -149,9 +149,8 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 ### **3. Do you think new features and capabilities like Gemini's longer context windows and Google's recently released search grounding will reduce the need for vector databases?**
 
-* **Answer**: No, they are complementary?
+* **Answer**: No, they are complementary
 * **Longer context windows** allow for more relevant data in the LLM prompt.
-
 * **Vector databases** efficiently retrieve the most relevant data from large datasets.
 
 ### 4. **How can we train embedding models from decoder-only backbones?**
