@@ -6,8 +6,7 @@
 * [Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs)
 * [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 * [https://www.kaggle.com/code/aakash404/day-1-prompting/](https://www.kaggle.com/code/aakash404/day-1-prompting/)
-
----
+* [paper foundational llm](https://chatgpt.com/share/673ee02f-fae8-8011-b403-b8a7116308bf)
 
 ### **⚙️ Setup Instructions**
 
@@ -25,7 +24,7 @@
 
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 
-* [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=mQDlCZZsOyo&feature=youtu.be) for this unit (created by [NotebookLM](https://www.youtube.com/watch?v=mQDlCZZsOyo&feature=youtu.be)).
+* [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=mQDlCZZsOyo&feature=youtu.be) for this unit (created by [NotebookLM](https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1)).
 * Read the [“Foundational Large Language Models &amp; Text Generation” whitepaper](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation).
 
 2. Complete Unit 1 – “Prompt Engineering”, which is:
@@ -54,132 +53,191 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 # ▶️ YT Notes Takeaways
 
-## Kaggle Generative AI Intensive Course - Day 1 Notes
-
-## Overview
-
-- **Course Duration**: 5 days (November 11–15)
-- **Sponsor**: Kaggle and the Gemini Team (Google)
-- **Focus**: Generative AI fundamentals
-  - Foundational models
-  - Prompt engineering
-  - Embeddings and vector databases
-  - AI agents and domain-specific models
-  - MLOps for model maintenance
-
-## Key Features of the Course
-
-1. **Daily Assignments**: White papers, podcasts, and code labs.
-2. **Live Q&A Sessions**: Expert guest speakers from Google and DeepMind.
-3. **Interactive Learning**:
-   - Access to Google Gemini APIs.
-   - Code labs for practical experience.
-4. **Resources**:
-   - A dedicated Discord channel for discussions and queries.
+Here are the detailed notes for **Day 1** of the Kaggle Generative AI Intensive Course. The notes are structured using proper markdown with examples for clarity.
 
 ---
 
-## Topics Covered on Day 1
+# **Day 1: Kaggle Generative AI Intensive Course**
 
-### 1. Foundational Models
+## **Overview**
 
-- **Definition**: Large language models trained on massive data sets.
-- **Applications**: From text generation to multimodal outputs (e.g., images, videos).
-- **Technological Advancements**:
-  - Gemini models now support OpenAI API compatibility.
-  - Smaller models like Gemini Flash AP offer cost-efficient, high-speed inference.
-
-### 2. Prompt Engineering
-
-- **Importance**: Enhances the effectiveness of model responses.
-- **Techniques**:
-  - Zero-shot prompting.
-  - Few-shot prompting.
-  - Chain of Thought (CoT) prompting for reasoning-based tasks.
-  - JSON and Enum modes for structured outputs.
-
-### 3. Reinforcement Learning with Human Feedback (RLHF)
-
-- **Purpose**: Align models with human preferences and safety guidelines.
-- **Mechanism**:
-  - Collect feedback via user interactions (e.g., thumbs up/down).
-  - Reward and penalize responses based on human preference data.
-
-### 4. Accelerating Inference
-
-- **Techniques**:
-  - Quantization: Reducing precision to improve efficiency.
-  - Distillation: Transferring knowledge from large models to smaller ones.
-  - Flash Attention: Optimizing computations for faster results.
-
-### 5. Evaluation of Models
-
-- **Methods**:
-  - Classical metrics like BLEU and ROUGE.
-  - Auto-evaluation using LLMs as raters.
-  - Fine-tuning task-specific performance.
+* This is a **5-day virtual course** aimed at teaching generative AI concepts and practical applications.
+* Day 1 focuses on:
+  * **Foundational Models**
+  * **Prompt Engineering**
+* Key components:
+  * **Guest Speakers** discussing cutting-edge generative AI topics.
+  * **Daily Assignments** using white papers and podcasts.
+  * **Code Labs and Demos** to learn hands-on skills.
+  * **Q&A Sessions** to resolve participant queries.
+  * **Pop Quiz** to test knowledge.
 
 ---
 
-## Code Labs Highlights
+## **Key Topics for Day 1**
 
-1. **Setup**:
+### **1. Foundational Models**
 
-   - Install the Generative AI SDK.
-   - Authenticate using Kaggle secrets for API keys.
-2. **Prompts**:
+#### What are Foundational Models?
 
-   - Single-turn interactions.
-   - Multi-turn conversational interfaces.
-3. **Generation Parameters**:
+* These are large, pre-trained models that serve as a base for various applications.
+* Examples:
+  * **Language Models (LLMs)** like GPT, Gemini, and others.
+  * Multimodal models (handling text, image, audio, and video).
+* Applications include:
+  * **Machine Translation**
+  * **Question-Answering**
+  * **Text Summarization**
+  * **Embedding Generation**
 
-   - **Temperature**: Controls randomness.
-   - **Top-K and Top-P**: Limit token sampling scope.
-   - **Output length**: Caps the maximum tokens in the response.
-4. **Prompt Engineering**:
+#### Training and Tuning
 
-   - **Enum Mode**: Restrict responses to predefined categories.
-   - **Chain of Thought**: Encourage step-by-step reasoning.
-   - **JSON Mode**: Generate structured data for programmatic use.
-5. **Advanced Features**:
-
-   - Code generation and execution.
-   - Multi-step workflows using the ReAct framework.
-
----
-
-## Pop Quiz Questions and Answers
-
-### 1. Which setting controls randomness in token selection?
-
-- **Answer**: Temperature.
-
-### 2. Which technique does NOT accelerate inference?
-
-- **Answer**: Fine-tuning.
-
-### 3. Unique characteristic of Gemini models?
-
-- **Answer**: 2 million token context window.
-
-### 4. How does RLHF improve models?
-
-- **Answer**: Uses a reward model to incentivize human-preferred responses.
-
-### 5. Which technique enhances reasoning via intermediate steps?
-
-- **Answer**: Chain of Thought (CoT) prompting.
-
-### 6. Minimum GPU memory needed for a 3B parameter model (standard float precision)?
-
-- **Answer**: 12 GB.
+1. **Supervised Fine-Tuning (SFT):**
+   * Using high-quality labeled data for task-specific training.
+   * Example: Training a chatbot to answer customer support queries.
+2. **Reinforcement Learning with Human Feedback (RLHF):**
+   * Aligning models with human preferences.
+   * Example:
+     * Users provide feedback via thumbs up/down.
+     * This feedback is used to train a **Reward Model** to improve responses.
+3. **Inference Optimization Techniques:**
+   * **Quantization** : Reducing model precision to speed up inference.
+   * **Distillation** : Training smaller models using outputs of larger models.
+   * **Speculative Decoding** : Accelerating token generation during inference.
 
 ---
 
-## Key Takeaways
+### **2. Prompt Engineering**
 
-- Gemini models and prompt engineering offer powerful tools for building generative AI applications.
-- RLHF and distillation methods play key roles in improving model performance.
-- Evaluation techniques ensure relevance and accuracy for specific tasks.
+#### What is Prompt Engineering?
+
+* The art of designing input prompts to guide model outputs effectively.
+
+#### Types of Prompting
+
+1. **Zero-Shot Prompting:**
+   * No examples provided; just an instruction.
+   * Example:
+     ```plaintext
+     Prompt: Classify the sentiment of this review: "I loved the product!"
+     Output: Positive
+     ```
+2. **Few-Shot Prompting:**
+   * Providing examples to guide the model.
+   * Example:
+     ```plaintext
+     Prompt:
+     Review: "The movie was fantastic!" -> Sentiment: Positive
+     Review: "The food was terrible." -> Sentiment: Negative
+     Review: "I had a great time." -> Sentiment:
+     Output: Positive
+     ```
+3. **Chain of Thought Prompting:**
+   * Asking the model to think step-by-step for better reasoning.
+   * Example:
+     ```plaintext
+     Prompt: When I was 4 years old, my sister was twice my age. Now I’m 20. How old is my sister?
+     Output:
+     Step 1: When I was 4, my sister was 8 (twice my age).
+     Step 2: The age difference is 4 years.
+     Step 3: Now that I’m 20, my sister is 24.
+     Answer: 24
+     ```
+4. **Structured Output Prompting (e.g., JSON mode):**
+   * Ensures outputs are in a specific format.
+   * Example:
+     ```plaintext
+     Prompt: Provide a summary of the book in JSON format.
+     Output:
+     {
+       "title": "The Great Gatsby",
+       "author": "F. Scott Fitzgerald",
+       "summary": "A tragic story of love, wealth, and societal expectations."
+     }
+     ```
+
+#### Parameters to Tune Outputs
+
+* **Temperature** :
+* Controls randomness in token selection.
+* Example:
+  * Low temperature: Predictable outputs.
+  * High temperature: Diverse and creative outputs.
+* **Top-K and Top-P Sampling** :
+* Filters the token pool during generation.
+* Top-K: Selects top K most probable tokens.
+* Top-P: Selects tokens based on cumulative probability.
+
+---
+
+## **Day 1 Activities**
+
+### **A. Code Labs**
+
+* Participants work on **Colab Notebooks** to learn:
+
+  1. **Single-Turn Prompting** :
+
+  * Sending a single query and receiving a response.
+  * Example:
+    ```plaintext
+    Prompt: Explain AI to me like I’m 5 years old.
+    Output: AI is like a robot brain that helps computers solve problems and learn new things.
+    ```
+
+  1. **Conversational Applications** :
+
+  * Creating chat interfaces that retain memory.
+  * Example:
+    ```plaintext
+    Prompt 1: My name is Alex.
+    Output 1: Nice to meet you, Alex!
+    Prompt 2: What's my name?
+    Output 2: Your name is Alex.
+    ```
+
+  1. **Working with Multiple Models** :
+
+  * Comparing small and large models, such as Gemini 1.5 Flash.
+
+  1. **Using Parameters** :
+
+  * Modifying output length, temperature, and sampling methods.
+
+  1. **Prompt Engineering Techniques** :
+
+  * Chain of Thought prompting for complex tasks.
+
+### **B. Q&A Highlights**
+
+1. **Grounding with Google Search:**
+   * Integrating search results to make model answers more reliable.
+2. **OpenAI Compatibility:**
+   * Gemini models are now compatible with OpenAI APIs with minimal code changes.
+3. **Multimodal Outputs:**
+   * Combining text, video, and images for rich, interactive outputs.
+
+---
+
+### **Pop Quiz Questions**
+
+1. **What controls randomness in token prediction?**
+
+   **Answer:** Temperature
+2. **Which is not an inference optimization technique?**
+
+   **Answer:** Fine-Tuning
+3. **What is unique about Gemini models?**
+
+   **Answer:** 2 million token context window.
+4. **How does RLHF improve models?**
+
+   **Answer:** By incentivizing human-preferred responses.
+5. **Which technique enhances reasoning via intermediate steps?**
+
+   **Answer:** Chain of Thought Prompting
+6. **Minimum GPU memory for a 3B parameter model?**
+
+   **Answer:** 12 GB
 
 ---
